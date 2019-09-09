@@ -7,7 +7,7 @@ OmniAuth strategy for [Sign In with Apple](https://developer.apple.com/sign-in-w
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'omniauth-apple', github: 'nhosoya/omniauth-apple', branch: 'master'
+gem 'omniauth-apple', github: 'GhostGroup/omniauth-apple', branch: 'master'
 ```
 
 And then execute:
@@ -34,7 +34,7 @@ end
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/nhosoya/omniauth-apple.
+Bug reports and pull requests are welcome on GitHub at https://github.com/GhostGroup/omniauth-apple.
 
 ## License
 
